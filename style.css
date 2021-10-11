@@ -1,0 +1,16 @@
+.yes {
+  background-color: #ebf2fb;
+  border-radius: 0.8em;
+  width: 14em;
+  height: 3em;
+}
+.no {
+  background-color: #ebf2fb;
+  border-radius: 0.8em;
+  width: 14em;
+  height: 3em;
+}
+
+button:hover {
+  background-color: #fff;
+}
