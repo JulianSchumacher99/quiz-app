@@ -14,3 +14,13 @@
 button:hover {
   background-color: #fff;
 }
+
+.correct {
+  color: greenyellow;
+  font-size: larger;
+}
+
+.incorrect {
+  color: red;
+  font-size: larger;
+}
